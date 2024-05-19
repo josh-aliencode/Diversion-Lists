@@ -1,4 +1,3 @@
-pagead2.googlesyndication.com
 analytics.163.com
 crash.163.com
 crashlytics.163.com
